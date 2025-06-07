@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there 👋, I'm Oluwadare Oluwaseun Emmanuel, also known as Cuzie's. I'm an entry level data analyst and I'm passionate about the immense potential of Data in an ever-expanding world 🌍
 
-<!--
-**Emmasheunn/Emmasheunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ Here's a peephole into my world ✨
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a data analytics project using SQL, Tableau, and Power BI.
+- 🌱 I’m currently learning SQL for data analysis and will be moving on to utilizing the python ecosystem to achieve big data milestones 🕶️ I'm excited for the journey 😊 As I should! 😂
+- 🤔 I’m looking for an opportunity to satisfy my curiosity about data and its role in driving decision-making.
+- 📫 How to reach me: emmasheunn@gmail.com 
+follow me on LinkedIn: 
+- 😄 Pronouns: He/Him 
+- ⚡ Here's a fun fact about data:
+The amount of data created and consumed globally is growing at an exponential rate. It's estimated that by 2025, the global datasphere will reach 181 zettabytes. To put that into perspective, one zettabyte is equal to a trillion gigabytes! If you were to store all that data on standard DVDs, the stack would reach beyond the moon and back several times over!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Join me on my journey to the moon 🌙 
+Let's Go! 🚀 🚀 
+
