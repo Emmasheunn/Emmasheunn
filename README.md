@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Oluwadare Oluwaseun Emmanuel. I'm an entry level Data Analyst and I'm passionate about the immense role of Data in an ever-expanding world 🌍
+# Hello there 👋, I'm Oluwadare Oluwaseun Emmanuel. I'm an entry level Data Analyst and I'm passionate about understanding the immense role of Data in an ever-expanding world 🌍
 
 ## ✨ Here's a peephole into my world ✨
 
