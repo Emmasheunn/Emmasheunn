@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Oluwadare Oluwaseun Emmanuel.
 
-I'm an entry level Data Analyst and I'm passionate about understanding the potential role of Data in driving decision-making in an ever-expanding world 🌍
+#### I'm an entry level Data Analyst and I'm passionate about understanding the potential role of Data in driving decision-making in an ever-expanding world 🌍
 
 ## ✨ Here's a peephole into my world ✨
 
