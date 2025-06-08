@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a data analytics project using SQL, Tableau, and Power BI.
 - 🌱 I’m currently learning SQL for data analysis and will be moving on to utilizing the python ecosystem to achieve big data milestones 🕶️ I'm excited for the journey 😊 As I should! 😂
 - 🤔 I’m looking for an opportunity to satisfy my curiosity about data and its role in driving decision-making.
-- 📫 How to reach me: [Email me 📨](emmasheunn@gmail.com) 
+- 📫 How to reach me: Email me 📨 at 👉 emmasheunn@gmail.com 
 follow me on LinkedIn: [Here 🔗](https://www.linkedin.com/in/oluwaseun-oluwadare-3935b4127)
 - 😄 Pronouns: He/Him 
 - ⚡ Here's a fun fact about data:
