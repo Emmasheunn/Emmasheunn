@@ -4,7 +4,7 @@
 
 ## ✨ Here's a peephole into my world ✨
 
-- 🔭 I recently completed a personal data analytics project using SQL, Tableau, and Power BI.
+- 🔭 I recently completed a SQL-BASED personal data analytics project on Sales data.
 - 🌱 I now possess advanced knowledge on Excel and SQL for data analysis, and will be looking to achieve the same feat in Tableau and Power BI for visualizations. I will then be moving on to utilizing the python ecosystem to achieve big data milestones 🕶️ I'm excited for the journey 😊 As I should! 😂
 - 🤔 I’m looking for an opportunity to satisfy my curiosity about data and its role in driving decision-making.
 - 📫 How to reach me: Email me 📨 at 👉 emmasheunn@gmail.com 
