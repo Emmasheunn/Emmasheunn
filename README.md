@@ -1,11 +1,11 @@
 # Hello there 👋, I'm Oluwadare Oluwaseun Emmanuel.
 
-#### I'm an entry level Data Analyst and I'm passionate about understanding the potential role of Data in driving decision-making in an ever-expanding world 🌍
+#### I'm a Data Analyst and I'm passionate about understanding the potential role of Data in driving decision-making in an ever-expanding world 🌍
 
 ## ✨ Here's a peephole into my world ✨
 
-- 🔭 I’m currently working on a data analytics project using SQL, Tableau, and Power BI.
-- 🌱 I’m currently learning SQL for data analysis and will be moving on to utilizing the python ecosystem to achieve big data milestones 🕶️ I'm excited for the journey 😊 As I should! 😂
+- 🔭 I recently completed a personal data analytics project using SQL, Tableau, and Power BI.
+- 🌱 I now possess advanced knowledge on Excel and SQL for data analysis, and will be looking to achieve the same feat in Tableau and Power BI for visualizations. I will then be moving on to utilizing the python ecosystem to achieve big data milestones 🕶️ I'm excited for the journey 😊 As I should! 😂
 - 🤔 I’m looking for an opportunity to satisfy my curiosity about data and its role in driving decision-making.
 - 📫 How to reach me: Email me 📨 at 👉 emmasheunn@gmail.com 
 follow me on LinkedIn: [Here 🔗](https://www.linkedin.com/in/oluwaseun-oluwadare-3935b4127)
