@@ -4,8 +4,8 @@
 
 ## ✨ Here's a peephole into my world ✨
 
-- 🔭 I recently completed an SQL-BASED personal data analytics project on Sales data.
-- 🌱 I now possess advanced knowledge on Excel and SQL for data analysis, and will be looking to achieve the same feat in Tableau and Power BI for visualizations. I will then be moving on to utilizing the python ecosystem to achieve big data milestones 🕶️ I'm excited for the journey 😊 As I should! 😂
+- 🔭 I am currently working on a learn-as-you-build data project with python and it promises to be an exciting project.
+- 🌱 I now possess advanced knowledge on Excel, SQL for data analysis, and Tableau for visualizations and dashboarding. I am currently working on utilizing the python ecosystem and I hope to achieve big data milestones with it. I will then be moving on to Power BI later on.  🕶️ I'm excited for the journey 😊 As I should! 😂
 - 🤔 I’m looking for an opportunity to satisfy my curiosity about data and its role in driving decision-making.
 - 📫 How to reach me: Email me 📨 at 👉 emmasheunn@gmail.com 
 follow me on LinkedIn: [Here 🔗](https://www.linkedin.com/in/oluwaseun-oluwadare-3935b4127)
